@@ -1,0 +1,8 @@
+.Counter input{
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.Counter .marginBtn{
+    margin: 0 2% 0 2%;
+}
